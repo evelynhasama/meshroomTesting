@@ -17,3 +17,4 @@ testing aliceVision Meshroom with sample images
   -  exposure: f/1.8
   -  exposure time: 1/3,521
   -  focal length: 4.25 mm
+  -  time to create the model: approx 20 to 30 minutes
