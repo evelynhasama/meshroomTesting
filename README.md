@@ -2,6 +2,7 @@
 
 testing aliceVision Meshroom with sample images
 
-- bicycle: 
+- bathroom
+- bicycle
 - snake plant
 - snake plant2
