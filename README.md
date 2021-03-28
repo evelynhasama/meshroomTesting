@@ -1,6 +1,6 @@
 # meshroomTesting
 
-testing aliceVision Meshroom with sample images
+Image sets for testing AliceVision's Meshroom in the command-line
 
 - bathroom
 - bicycle
