@@ -6,3 +6,4 @@ Image sets for testing AliceVision's Meshroom in the command-line
 - bicycle
 - snake plant
 - snake plant2
+- guest room/ office
